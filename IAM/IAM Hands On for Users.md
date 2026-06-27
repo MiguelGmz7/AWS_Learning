@@ -18,4 +18,5 @@
 We Select the new group and click next
 ![[Pasted image 20260627155253.png]]
 # Summary of the user
-![[Pasted image 20260627155323.png]]
+![[Pasted image 20260627155323.png|517]]
+![[Pasted image 20260627155351.png]]
