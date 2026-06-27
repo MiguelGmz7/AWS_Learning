@@ -10,4 +10,4 @@
 ![[Pasted image 20260627154654.png]]
 	This is how we would generate a user in this group 
 
-# Create a Group
+# Create a Group 
