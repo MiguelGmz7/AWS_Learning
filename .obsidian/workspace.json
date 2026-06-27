@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fa74d2bdae341cb",
@@ -184,11 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc211f36c68a19c3",
+  "active": "577ce5606b0f7415",
   "lastOpenFiles": [
-    "Untitled",
-    "Pasted image 20260627152604.png",
-    "Pasted image 20260627152159.png",
+    "Images",
+    "Images/Pasted image 20260627152604.png",
+    "Images/Pasted image 20260627152159.png",
     "IAM",
     "ICA.md",
     "AWS Learning/IAM Introduction.md",

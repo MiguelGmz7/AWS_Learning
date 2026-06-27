@@ -13,3 +13,4 @@ It's use to create Users and Groups:
 # IAM Permissions
 Users and groups can be assigned JSON documents called policies
 ![[Pasted image 20260627152604.png]]
+	This User/Group can Describe on **EC2, ELASTIC CLOUD BALAC**
