@@ -1,6 +1,6 @@
 #IAM
 
-# Us
+# Users and Groups 
 Stands for **Identity and Access Management**
 
 It's use to create Users and Groups: 
@@ -9,3 +9,7 @@ It's use to create Users and Groups:
 - Groups: Can Only Contain users not other groups
 ![[Pasted image 20260627152159.png]]
 	As we can see a **User** can **no group** or **multiple groups**
+
+# IAM Permissions
+Users and groups can be assigned JSON documents called policies
+![[Pasted image 20260627152604.png]]
