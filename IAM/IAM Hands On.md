@@ -4,4 +4,8 @@
 ![[Pasted image 20260627154453.png]]
 
 # Create User
+![[Pasted image 20260627154606.png]]
+
+# Complete the form 
+![[Pasted image 20260627154654.png]]
 
