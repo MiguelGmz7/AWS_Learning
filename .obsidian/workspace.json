@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM Introduction.md",
+                "file": "IAM/IAM Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "577ce5606b0f7415",
+  "active": "dc211f36c68a19c3",
   "lastOpenFiles": [
+    "IAM",
     "ICA.md",
     "AWS Learning/IAM Introduction.md",
     "AWS Learning",
