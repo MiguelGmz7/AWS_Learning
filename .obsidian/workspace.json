@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/IAN Hands on.md",
+                "file": "IAM/IAM Hands On.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAN Hands on"
+              "title": "IAM Hands On"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "5de6065dad9d9ad7",
   "lastOpenFiles": [
-    "Images/Pasted image 20260627153130.png",
     "IAM/IAM Introduction.md",
-    "IAM/IAN Hands on.md",
+    "IAM/IAM Hands On.md",
+    "Images/Pasted image 20260627153130.png",
     "Images",
     "Images/Pasted image 20260627152604.png",
     "Images/Pasted image 20260627152159.png",
