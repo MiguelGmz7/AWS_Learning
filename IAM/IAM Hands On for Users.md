@@ -11,3 +11,4 @@
 	This is how we would generate a user in this group 
 
 # Create a Group 
+![[Pasted image 20260627155050.png]]
