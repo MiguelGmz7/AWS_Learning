@@ -16,3 +16,6 @@
 - WE CREATED THE GROUP **ADMIN** AND THERE IS ALREADY AN **ADMIN ACCESS POLICY**:
 ![[Pasted image 20260627155209.png]]
 We Select the new group and click next
+![[Pasted image 20260627155253.png]]
+# Summary of the user
+![[Pasted image 20260627155323.png]]
