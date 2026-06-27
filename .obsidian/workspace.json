@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/IAM Hands On.md",
+                "file": "IAM/IAM Hands On for Users.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM Hands On"
+              "title": "IAM Hands On for Users"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/IAM Hands On.md",
+                "file": "IAM/IAM Hands On for Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IAM Hands On"
+              "title": "Backlinks for IAM Hands On for Users"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/IAM Hands On.md",
+                "file": "IAM/IAM Hands On for Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IAM Hands On"
+              "title": "Outgoing links from IAM Hands On for Users"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/IAM Hands On.md",
+                "file": "IAM/IAM Hands On for Users.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IAM Hands On"
+              "title": "Outline of IAM Hands On for Users"
             }
           },
           {
@@ -202,7 +202,7 @@
     "Images/Pasted image 20260627154606.png",
     "Images/Pasted image 20260627154453.png",
     "Images/Pasted image 20260627154342.png",
-    "IAM/IAM Hands On.md",
+    "IAM/IAM Hands On for Users.md",
     "2026-06-27.md",
     "IAM/IAM Introduction.md",
     "Images/Pasted image 20260627153130.png",
