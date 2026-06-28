@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "AWS CloudShell"
             }
+          },
+          {
+            "id": "78caea0aac412d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM/IAM Roles of Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IAM Roles of Services"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/AWS CloudShell.md",
+                "file": "IAM/IAM Roles of Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS CloudShell"
+              "title": "Backlinks for IAM Roles of Services"
             }
           },
           {
@@ -157,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/AWS CloudShell.md",
+                "file": "IAM/IAM Roles of Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS CloudShell"
+              "title": "Outgoing links from IAM Roles of Services"
             }
           },
           {
@@ -200,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/AWS CloudShell.md",
+                "file": "IAM/IAM Roles of Services.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS CloudShell"
+              "title": "Outline of IAM Roles of Services"
             }
           },
           {
@@ -239,10 +253,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "000deb3176a43e41",
+  "active": "78caea0aac412d6a",
   "lastOpenFiles": [
-    "IAM/AWS CLI Acces Keys.md",
     "IAM/AWS CloudShell.md",
+    "IAM/IAM Roles of Services.md",
+    "IAM/AWS CLI Acces Keys.md",
     "Images/Pasted image 20260627201850.png",
     "Images/Pasted image 20260627201803.png",
     "Images/Pasted image 20260627201644.png",
