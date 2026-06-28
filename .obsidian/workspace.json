@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM Policies.md",
+                "file": "IAM/IAM Policies.md",
                 "mode": "source",
                 "source": false
               },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM Policies.md",
+                "file": "IAM/IAM Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM Policies.md",
+                "file": "IAM/IAM Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM Policies.md",
+                "file": "IAM/IAM Policies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,8 +213,9 @@
   },
   "active": "20a3e8025c5a991f",
   "lastOpenFiles": [
+    "Images/Pasted image 20260627190145.png",
     "IAM/IAM Hands On for Users.md",
-    "IAM Policies.md",
+    "IAM/IAM Policies.md",
     "Images/Pasted image 20260627155351.png",
     "Images/Pasted image 20260627155323.png",
     "Images/Pasted image 20260627155253.png",

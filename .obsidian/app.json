@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "IAM"
 }
