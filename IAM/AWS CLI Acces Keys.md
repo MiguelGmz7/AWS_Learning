@@ -6,7 +6,12 @@
 ![[Pasted image 20260627192904.png]]
 
 # How to get the access key from the aws console
+
 1. Select an user from the users in IAM
 ![[Pasted image 20260627193653.png]]
+
 2. Now that you clicked the **Create Access Key**, select the **command line interface** option and then confirm
 ![[Pasted image 20260627194432.png]]
+
+3. Give it a description 
+![[Pasted image 20260627195941.png]]
