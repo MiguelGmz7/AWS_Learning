@@ -7,3 +7,6 @@
 
 2. Select the service that you need 
 ![[Pasted image 20260627203931.png]]
+![[Pasted image 20260627204205.png]]
+	In this case we are selecting EC2
+	
