@@ -24,4 +24,5 @@ A SOFTWARE DEVELOPER KIT EMBEDDED WITHIN YOUR APPLICATION
 ![[Pasted image 20260627192138.png]]
 ![[Pasted image 20260627192156.png]]
 	***This means we now hace instances that allow us to control certain aspects of AWS***
-		In this case we uploaded a file to 
+		In this case we uploaded a file to s3
+
