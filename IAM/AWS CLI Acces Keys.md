@@ -18,3 +18,7 @@
 
 4. Use the credentials and configure it 
 ![[Pasted image 20260627200456.png]]
+
+5. Configure the CLI and Access Keys
+![[Pasted image 20260627200606.png]]
+
