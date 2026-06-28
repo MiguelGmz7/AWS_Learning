@@ -23,4 +23,5 @@ Access keys are just like passwords and manage by the user, *it's their responsi
 A SOFTWARE DEVELOPER KIT EMBEDDED WITHIN YOUR APPLICATION
 ![[Pasted image 20260627192138.png]]
 ![[Pasted image 20260627192156.png]]
-	***This means we now hace instances ***
+	***This means we now hace instances that allow us to control certain aspects of AWS***
+		In this case we uploaded a file to 
