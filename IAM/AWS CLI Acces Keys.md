@@ -8,4 +8,4 @@
 # How to get the access key from the aws console
 1. Select an user from the users in IAM
 ![[Pasted image 20260627193653.png]]
-2. Now that you clicked the **Create Access Key**, select the command line 
+2. Now that you clicked the **Create Access Key**, select the command line interface option and then confirm
