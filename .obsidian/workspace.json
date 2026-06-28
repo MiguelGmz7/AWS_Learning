@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "AWS CLI Acces Keys"
             }
+          },
+          {
+            "id": "6b3900294c8bc2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IAM/AWS Cloud Shell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Cloud Shell"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/AWS CLI Acces Keys.md",
+                "file": "IAM/AWS Cloud Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS CLI Acces Keys"
+              "title": "Backlinks for AWS Cloud Shell"
             }
           },
           {
@@ -157,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/AWS CLI Acces Keys.md",
+                "file": "IAM/AWS Cloud Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS CLI Acces Keys"
+              "title": "Outgoing links from AWS Cloud Shell"
             }
           },
           {
@@ -200,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/AWS CLI Acces Keys.md",
+                "file": "IAM/AWS Cloud Shell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS CLI Acces Keys"
+              "title": "Outline of AWS Cloud Shell"
             }
           },
           {
@@ -239,8 +253,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "000deb3176a43e41",
+  "active": "6b3900294c8bc2c1",
   "lastOpenFiles": [
+    "IAM/AWS CLI Acces Keys.md",
+    "IAM/AWS Cloud Shell.md",
     "Images/Pasted image 20260627200805.png",
     "Images/Pasted image 20260627200606.png",
     "Images/Pasted image 20260627200456.png",
@@ -252,10 +268,8 @@
     "IAM/IAM Hands On for Users.md",
     "IAM/IAM Policies.md",
     "IAM/AWS Access.md",
-    "IAM/AWS CLI Acces Keys.md",
     "Images/Pasted image 20260627192156.png",
     "Images/Pasted image 20260627192138.png",
-    "Images/Pasted image 20260627191933.png",
     "2026-06-27.md",
     "IAM/IAM Introduction.md",
     "Images",
