@@ -8,3 +8,4 @@
 # How to get the access key from the aws console
 1. Select an user from the users in IAM
 ![[Pasted image 20260627193201.png]]
+2. Now that you clicked the 
