@@ -22,3 +22,5 @@
 5. Configure the CLI and Access Keys
 ![[Pasted image 20260627200606.png]]
 
+# Now we can list users
+![[Pasted image 20260627200805.png]]
