@@ -1,3 +1,5 @@
 # Ways to access AWS
 
-You can access AWS in 3 ways 
+You can access AWS in 3 ways: 
+
+- AWS Management Console
