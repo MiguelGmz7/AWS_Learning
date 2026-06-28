@@ -22,3 +22,9 @@ We Select the new group and click next
 
 # Tags
 ![[Pasted image 20260627155351.png]]
+Metadata that we add to our users and resources
+
+- YOU CAN'T HAVE MORE THEN ONE ACCOUNT OPEN IN AWS
+- In Your 1password you have your own admin account
+
+
