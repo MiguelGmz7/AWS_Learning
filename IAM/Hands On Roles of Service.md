@@ -13,4 +13,5 @@
 3. **Now we add a policy (IAMReadOnlyAccess) this will give our service access to read IAM users**
 ![[Pasted image 20260627204728.png]]
 
-4. Now 
+4. Now we give it a name an more information 
+![[Pasted image 20260627204853.png]]

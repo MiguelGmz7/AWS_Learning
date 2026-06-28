@@ -67,14 +67,10 @@
             "id": "78caea0aac412d6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM/Hands On Roles of Service.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hands On Roles of Service"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -152,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/Hands On Roles of Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hands On Roles of Service"
+              "title": "Backlinks"
             }
           },
           {
@@ -171,12 +166,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/Hands On Roles of Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hands On Roles of Service"
+              "title": "Outgoing links"
             }
           },
           {
@@ -214,13 +208,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/Hands On Roles of Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hands On Roles of Service"
+              "title": "Outline"
             }
           },
           {
@@ -255,12 +248,13 @@
   },
   "active": "78caea0aac412d6a",
   "lastOpenFiles": [
+    "IAM/Hands On Roles of Service.md",
+    "Images/Pasted image 20260627204853.png",
     "Images/Pasted image 20260627204728.png",
     "Images/Pasted image 20260627204205.png",
     "Images/Pasted image 20260627203931.png",
     "Images/Pasted image 20260627203441.png",
     "IAM/IAM Roles of Services.md",
-    "IAM/Hands On Roles of Service.md",
     "Images/Pasted image 20260627202725.png",
     "IAM/AWS CloudShell.md",
     "IAM/AWS CLI Acces Keys.md",
@@ -268,8 +262,6 @@
     "Images/Pasted image 20260627201803.png",
     "Images/Pasted image 20260627201644.png",
     "Images/Pasted image 20260627200805.png",
-    "Images/Pasted image 20260627200606.png",
-    "Images/Pasted image 20260627200456.png",
     "IAM/IAM Hands On for Users.md",
     "IAM/IAM Policies.md",
     "IAM/AWS Access.md",
