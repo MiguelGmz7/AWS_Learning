@@ -18,3 +18,7 @@ Access keys are just like passwords and manage by the user, *it's their responsi
 # AWS CLI
 ![[Pasted image 20260627191933.png]]
 	All commands start with AWS
+
+# AWS SDK
+A SOFTWARE DEVELOPER KIT EMBEDDED WITHIN YOUR APPLICATION
+![[Pasted image 20260627192138.png]]
