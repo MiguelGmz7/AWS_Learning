@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/IAM Roles of Services.md",
+                "file": "IAM/Hands On Roles of Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM Roles of Services"
+              "title": "Hands On Roles of Service"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/IAM Roles of Services.md",
+                "file": "IAM/Hands On Roles of Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IAM Roles of Services"
+              "title": "Backlinks for Hands On Roles of Service"
             }
           },
           {
@@ -171,12 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/IAM Roles of Services.md",
+                "file": "IAM/Hands On Roles of Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IAM Roles of Services"
+              "title": "Outgoing links from Hands On Roles of Service"
             }
           },
           {
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/IAM Roles of Services.md",
+                "file": "IAM/Hands On Roles of Service.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IAM Roles of Services"
+              "title": "Outline of Hands On Roles of Service"
             }
           },
           {
@@ -255,8 +255,9 @@
   },
   "active": "78caea0aac412d6a",
   "lastOpenFiles": [
-    "Images/Pasted image 20260627202725.png",
     "IAM/IAM Roles of Services.md",
+    "IAM/Hands On Roles of Service.md",
+    "Images/Pasted image 20260627202725.png",
     "IAM/AWS CloudShell.md",
     "IAM/AWS CLI Acces Keys.md",
     "Images/Pasted image 20260627201850.png",
