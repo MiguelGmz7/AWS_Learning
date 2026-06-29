@@ -16,3 +16,5 @@ Inside of *IAM* you can just click on **Credentials Report** this would give you
 ## Hands On
 if you go to a specific user and click on ***Last Accessed*** it will give you a list of the services and policies in a timeline of the user
 ![[Pasted image 20260628183222.png]]
+	You can even see the services that the user don't interact as often
+![[Pasted image 20260628183509.png]]
