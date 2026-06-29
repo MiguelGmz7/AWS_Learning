@@ -14,4 +14,5 @@ Inside of *IAM* you can just click on **Credentials Report** this would give you
 - Access show the service permissions granted to a user, and when those services were last accessed
 - You can use this information to double-check your policies
 ## Hands On
-if you go to a specific user and click on ***Last Accessed*** it will give you a list of the services and policies in a time
+if you go to a specific user and click on ***Last Accessed*** it will give you a list of the services and policies in a timeline of the user
+![[Pasted image 20260628183222.png](100)]

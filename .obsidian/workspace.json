@@ -76,6 +76,18 @@
               "icon": "lucide-file",
               "title": "IAM Security Tools"
             }
+          },
+          {
+            "id": "7d6eb6660fb56b94",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20260628183222.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260628183222"
+            }
           }
         ],
         "currentTab": 4
@@ -255,10 +267,11 @@
   },
   "active": "f5f5957e65d33a92",
   "lastOpenFiles": [
+    "Images/Pasted image 20260628183222.png",
+    "IAM/IAM Security Tools.md",
     "Images/Pasted image 20260628182810.png",
     "Images/Pasted image 20260628182430.png",
     "IAM/AWS CloudShell.md",
-    "IAM/IAM Security Tools.md",
     "IAM/Hands On Roles of Service.md",
     "Images/Pasted image 20260627204853.png",
     "Images/Pasted image 20260627204728.png",
@@ -269,8 +282,6 @@
     "Images/Pasted image 20260627202725.png",
     "IAM/AWS CLI Acces Keys.md",
     "Images/Pasted image 20260627201850.png",
-    "Images/Pasted image 20260627201803.png",
-    "Images/Pasted image 20260627201644.png",
     "IAM/IAM Hands On for Users.md",
     "IAM/IAM Policies.md",
     "IAM/AWS Access.md",
