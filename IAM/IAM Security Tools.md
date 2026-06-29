@@ -6,4 +6,4 @@ This would allow us to have more insights of the accounts of our users
 
 ## Hands On
 ![[Pasted image 20260628182430.png]]
-Inside of *IAM* you can just cl
+Inside of *IAM* you can just click on **Credentials Report** this would give you full visibility 
