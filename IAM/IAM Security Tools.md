@@ -11,3 +11,5 @@ Inside of *IAM* you can just click on **Credentials Report** this would give you
 
 
 # IAM Access Advisor (User-level)
+- Access show the service permissions granted to a user, and when those services were last accessed
+- You can use this information to dou your policies
