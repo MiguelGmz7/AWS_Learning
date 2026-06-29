@@ -4,4 +4,6 @@ This would allow us to have more insights of the accounts of our users
 # IAM Credentials Report (Account Level)
 - ***A list of all your account's users and the status of their various credentials***
 
-## Hands
+## Hands On
+![[Pasted image 20260628182430.png]]
+Inside of *IAM* you can just cl
