@@ -6,4 +6,7 @@ This would allow us to have more insights of the accounts of our users
 
 ## Hands On
 ![[Pasted image 20260628182430.png]]
-Inside of *IAM* you can just click on **Credentials Report** this would give you full visibility on the credentials of your users in that account, you can get even more information if 
+Inside of *IAM* you can just click on **Credentials Report** this would give you full visibility on the credentials of your users in that account, you can get even more information if they already had setup their access keys
+![[Pasted image 20260628182810.png]]
+
+
