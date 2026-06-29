@@ -1,1 +1,5 @@
-#IAM #shared_responsability
+#IAM #Exam 
+
+| AWS                                                                                                                                                                           | YOU                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Infrastructure (Global Network Security)<br>- Configuration and vulnerability analysis of the services<br>- Compliance validation (their service are in line with the laws) | - Monitor and manage: Users, Groups, Roles and policies<br>- Enable MFA on all accounts<br>- Rotate all your keys often<br>- Use IAM tools to apply appropriate permissions<br>- Analize access & review permissions |
