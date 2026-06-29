@@ -10,3 +10,4 @@ Inside of *IAM* you can just click on **Credentials Report** this would give you
 ![[Pasted image 20260628182810.png]]
 
 
+# IAM Access Advisor (User-level)
