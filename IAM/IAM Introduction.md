@@ -2,9 +2,6 @@
 
 # Users and Groups 
 Stands for **Identity and Access Management**
-
-hola andy
-
 It's use to create Users and Groups: 
 
 - Users: People In your Organization
