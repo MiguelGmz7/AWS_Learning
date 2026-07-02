@@ -84,7 +84,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -238,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37c840e357c8705b",
+  "active": "dc211f36c68a19c3",
   "lastOpenFiles": [
     "IAM/AWS Access.md",
     "IAM/Untitled.md",
