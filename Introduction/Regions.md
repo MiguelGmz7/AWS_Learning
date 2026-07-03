@@ -15,4 +15,7 @@ Every region is a set of data centers in a **Specific Geographical Area** is imp
 # Availability Zones
 Sets of data centers (We don't know how many) that are together so they can have redundancy 
 ![[Pasted image 20260702193352.png]]
-	***Every availability zone is***
+	***Every availability zone is separeted from the other availability zone, for any natural disaster or fire***
+
+# Points of presence (Edge Locations)
+Be 
