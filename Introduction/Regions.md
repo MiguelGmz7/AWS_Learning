@@ -18,4 +18,6 @@ Sets of data centers (We don't know how many) that are together so they can have
 	***Every availability zone is separeted from the other availability zone, for any natural disaster or fire***
 
 # Points of presence (Edge Locations)
-Be 
+Be able to deliver content to end users with low latency
+![[Pasted image 20260702193601.png]]
+
