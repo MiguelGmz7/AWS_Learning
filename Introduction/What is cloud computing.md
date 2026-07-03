@@ -10,3 +10,7 @@ Self-hosted Cloud service manage and used by a single organization
 - Banks
 
 # Public Cloud
+Cloud resources owned and operated by a third-party cloud
+## Examples
+- AWS
+- Google Cloud P
