@@ -12,4 +12,5 @@ They rent us a compute power, we develop the app
 - Heroku, Windows Azure
 
 # Software as a service
-A tool for us to use
+Software that is already built we just use it
+- Rekognition ()
