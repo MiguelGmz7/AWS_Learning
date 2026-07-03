@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam responses.md",
+                "file": "Introduction/What is cloud computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam responses"
+              "title": "What is cloud computing"
             }
           }
         ],
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9fa74d2bdae341cb",
@@ -255,8 +254,8 @@
   },
   "active": "35f44960801a28e3",
   "lastOpenFiles": [
-    "Introduction/What is cloud computing.md",
     "Exam responses.md",
+    "Introduction/What is cloud computing.md",
     "Introduction",
     "Images/Pasted image 20260702180503.png",
     "IAM/Shared Responsibility Model for IAM.md",
