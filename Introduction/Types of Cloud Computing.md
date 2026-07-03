@@ -8,3 +8,4 @@ They rent us their hardware we choose the rest
 
 # Plataform as a Service
 They rent us a compute power, we develop the app
+- Elastic Beanstalk (on AWS)
