@@ -31,5 +31,6 @@ Cloud resources owned and operated by a third-party cloud
 - **Measure service:** Know why are you paying that
 
 # We trade Capex (Capital expense) for Opex (Operational Expense)
-- 
+- ***Pay own-demand:*** We don't own hardware 
+- ***Reduced total cost ***
 
