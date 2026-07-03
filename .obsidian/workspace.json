@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam responses.md",
+                "file": "Introduction/Types of Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exam responses"
+              "title": "Types of Cloud Computing"
             }
           }
         ],
@@ -268,8 +268,8 @@
   },
   "active": "b461ceb9628dd1e5",
   "lastOpenFiles": [
-    "Introduction/Types of Cloud Computing.md",
     "Exam responses.md",
+    "Introduction/Types of Cloud Computing.md",
     "Images/Pasted image 20260702183425.png",
     "Introduction/What is cloud computing.md",
     "Introduction",
