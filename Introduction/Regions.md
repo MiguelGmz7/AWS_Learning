@@ -7,4 +7,7 @@ Every region is a set of data centers in a **Specific Geographical Area** is imp
 - ***Compliance***: Data governance and legal requirements, data never leaves a region without your explicit permission
 
 - ***Proximity to customers:*** Reduce latency by make the servers close to your users 
-- 
+
+- ***Availability Services:*** There are regions that do not have certain services 
+
+- ***Pricing:*** Pricing varies region to region
