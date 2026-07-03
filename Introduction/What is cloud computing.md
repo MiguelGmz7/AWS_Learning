@@ -19,7 +19,12 @@ Cloud resources owned and operated by a third-party cloud
 - Oracle
 
 # Five Characteristics of Cloud Computing
+
 - **On-demand self service:** Provision resources and use them without asking them to a human representative
+
 - **Broad Network:** Resources available over the network and accessed by diverse client platforms
-- **Multi-tenancy and resource pooling**:
+
+- **Multi-tenancy and resource pooling**: We can have multiple tenancies using the same server without them knowing, but it needs to be chroot jail
+
+- **Rapid elasticity and Scalability**
 
