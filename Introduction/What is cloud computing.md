@@ -4,4 +4,8 @@
 - Adapt to the size you need 
 
 # Private Cloud
-Self-hosted Cloud service manage 
+Self-hosted Cloud service manage and used by a single organization
+## Examples
+- Nextcloud
+- Banks
+
