@@ -24,4 +24,5 @@ Software that is already built we just use it
 Pay for the amount of data storage
 
 ## Data Transfer
-- Pay for the data that comes **OUT**
+- ***Pay for*** the data that comes ***OUT THE CLOUD***
+- ***Data*** that comes ***IN, IS FREE*** 
