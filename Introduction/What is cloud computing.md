@@ -20,5 +20,6 @@ Cloud resources owned and operated by a third-party cloud
 
 # Five Characteristics of Cloud Computing
 - **On-demand self service:** Provision resources and use them without asking them to a human representative
-- **Broad Network:** 
+- **Broad Network:** Resources available over the network and accessed by diverse client platforms
+- **Multi-tenancy and resource pooling**:
 
