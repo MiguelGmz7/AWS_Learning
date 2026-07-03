@@ -13,4 +13,6 @@ They rent us a compute power, we develop the app
 
 # Software as a service
 Software that is already built we just use it
-- Rekognition ()
+- Rekognition (provides **automated image and video analysis** using deep learning technology)
+- Gmail
+- Salesforce
