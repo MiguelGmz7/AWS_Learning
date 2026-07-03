@@ -11,3 +11,6 @@ Every region is a set of data centers in a **Specific Geographical Area** is imp
 - ***Availability Services:*** There are regions that do not have certain services 
 
 - ***Pricing:*** Pricing varies region to region
+
+# Avaliability Zones
+Sets of data centers (We don't know how many) that are together 
