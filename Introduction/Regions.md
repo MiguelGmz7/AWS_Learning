@@ -4,4 +4,4 @@
 Every region is a set of data centers in a **Specific Geographical Area** is important to point out that every region is connected *With an AWS Private Network*
 
 # Why would you used a specific region
-- **Compliance**
+- ***Compliance***: Data governance and legal requirements, data never leaves a region without your explicit permissi
