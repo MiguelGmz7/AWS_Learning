@@ -16,3 +16,6 @@ Software that is already built we just use it
 - Rekognition (provides **automated image and video analysis** using deep learning technology)
 - Gmail
 - Salesforce
+
+# Pricing In the Cloud
+## Compute: 
