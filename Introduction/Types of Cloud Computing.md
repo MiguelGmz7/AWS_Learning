@@ -19,3 +19,9 @@ Software that is already built we just use it
 
 # Pricing In the Cloud
 ## Compute: 
+- Pay for computing time 
+## Storage: 
+Pay for the amount of data storage
+
+## Data Transfer
+- Pay for the data that comes **OUT**
