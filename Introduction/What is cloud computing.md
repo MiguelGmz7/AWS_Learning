@@ -26,5 +26,9 @@ Cloud resources owned and operated by a third-party cloud
 
 - **Multi-tenancy and resource pooling**: We can have multiple tenancies using the same server without them knowing, but it needs to be chroot jail
 
-- **Rapid elasticity and Scalability**
+- **Rapid elasticity and Scalability:** Automatically and quickly acquire and dispose resources when needed
+
+- **Measure service:** Know why are you paying that
+
+
 
