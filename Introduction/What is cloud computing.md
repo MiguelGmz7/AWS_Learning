@@ -9,3 +9,4 @@ Self-hosted Cloud service manage and used by a single organization
 - Nextcloud
 - Banks
 
+# Public Cloud
