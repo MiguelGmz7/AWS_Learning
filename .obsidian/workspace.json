@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9fa74d2bdae341cb",
@@ -239,12 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41537f58a3baba9e",
+  "active": "dc211f36c68a19c3",
   "lastOpenFiles": [
+    "Introduction",
     "Images/Pasted image 20260702180503.png",
     "IAM/Shared Responsibility Model for IAM.md",
     "Exam responses.md",
-    "Untitled",
     "IAM/AWS Access.md",
     "IAM/AWS CloudShell.md",
     "IAM/IAM Security Tools.md",
@@ -262,7 +261,6 @@
     "Images/Pasted image 20260627203931.png",
     "Images/Pasted image 20260627203441.png",
     "IAM/IAM Roles of Services.md",
-    "Images/Pasted image 20260627202725.png",
     "IAM/AWS CLI Acces Keys.md",
     "IAM/IAM Hands On for Users.md",
     "2026-06-27.md",
