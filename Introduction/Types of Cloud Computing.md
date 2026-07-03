@@ -4,4 +4,6 @@
 ## Infrastructure as a service 
 They rent us their hardware we choose the rest
 - Amazon EC2 
-- Azure, Digital Ocean, Lindode
+- Azure, Digital Ocean, Linode
+
+# Plataform as a Service
