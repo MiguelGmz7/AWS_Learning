@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "capex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -294,7 +295,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "263ba3235eddccc2",
+  "active": "a2dfe6a17845fa07",
   "lastOpenFiles": [
     "IAM/Shared Responsibility Model for IAM.md",
     "IAM/IAM Security Tools.md",
