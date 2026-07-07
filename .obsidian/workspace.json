@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Shared Responsibility.md",
+                "file": "IAM/Hands On Roles of Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shared Responsibility"
+              "title": "Hands On Roles of Service"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "security",
+                "query": "role",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,6 +297,7 @@
   },
   "active": "263ba3235eddccc2",
   "lastOpenFiles": [
+    "Introduction/Shared Responsibility.md",
     "IAM/Shared Responsibility Model for IAM.md",
     "Introduction/What is cloud computing.md",
     "IAM/IAM Security Tools.md",
@@ -306,7 +307,6 @@
     "IAM/AWS CloudShell.md",
     "IAM/IAM Introduction.md",
     "Introduction/Regions.md",
-    "Introduction/Shared Responsibility.md",
     "Images/Pasted image 20260707144743.png",
     "IAM/IAM Hands On for Users.md",
     "Images/Pasted image 20260702193601.png",
