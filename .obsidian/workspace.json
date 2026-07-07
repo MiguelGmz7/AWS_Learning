@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/Shared Responsibility Model for IAM.md",
+                "file": "IAM/AWS CLI Acces Keys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shared Responsibility Model for IAM"
+              "title": "AWS CLI Acces Keys"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "share",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,8 +159,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,6 +282,8 @@
   },
   "active": "0028c5ace8f46ca0",
   "lastOpenFiles": [
+    "IAM/IAM Hands On for Users.md",
+    "IAM/Shared Responsibility Model for IAM.md",
     "Introduction/Regions.md",
     "Images/Pasted image 20260702193601.png",
     "Images/Pasted image 20260702193352.png",
@@ -293,7 +294,6 @@
     "Introduction/What is cloud computing.md",
     "Introduction",
     "Images/Pasted image 20260702180503.png",
-    "IAM/Shared Responsibility Model for IAM.md",
     "IAM/AWS Access.md",
     "IAM/AWS CloudShell.md",
     "IAM/IAM Security Tools.md",
@@ -308,7 +308,6 @@
     "Images/Pasted image 20260627204853.png",
     "IAM/IAM Roles of Services.md",
     "IAM/AWS CLI Acces Keys.md",
-    "IAM/IAM Hands On for Users.md",
     "2026-06-27.md",
     "Images",
     "IAM",
