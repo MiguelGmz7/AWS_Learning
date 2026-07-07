@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/AWS CloudShell.md",
+                "file": "IAM/Shared Responsibility Model for IAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS CloudShell"
+              "title": "Shared Responsibility Model for IAM"
             }
           }
         ],
@@ -296,12 +296,16 @@
   },
   "active": "263ba3235eddccc2",
   "lastOpenFiles": [
+    "IAM/IAM Security Tools.md",
+    "IAM/Hands On Roles of Service.md",
+    "IAM/IAM Roles of Services.md",
+    "IAM/AWS CLI Acces Keys.md",
+    "IAM/AWS CloudShell.md",
     "IAM/IAM Introduction.md",
     "Introduction/Regions.md",
     "Introduction/Shared Responsibility.md",
     "Images/Pasted image 20260707144743.png",
     "Introduction/What is cloud computing.md",
-    "IAM/AWS CLI Acces Keys.md",
     "IAM/IAM Hands On for Users.md",
     "IAM/Shared Responsibility Model for IAM.md",
     "Images/Pasted image 20260702193601.png",
@@ -313,16 +317,12 @@
     "Introduction",
     "Images/Pasted image 20260702180503.png",
     "IAM/AWS Access.md",
-    "IAM/AWS CloudShell.md",
-    "IAM/IAM Security Tools.md",
     "Images/Pasted image 20260628183222.png",
     "IAM/IAM Policies.md",
     "EC2",
     "Images/Pasted image 20260628183509.png",
     "Images/Pasted image 20260628182810.png",
     "Images/Pasted image 20260628182430.png",
-    "IAM/Hands On Roles of Service.md",
-    "IAM/IAM Roles of Services.md",
     "2026-06-27.md",
     "Images",
     "IAM",
