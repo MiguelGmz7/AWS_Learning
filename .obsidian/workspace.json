@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Regions.md",
+                "file": "IAM/AWS CloudShell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regions"
+              "title": "AWS CloudShell"
             }
           }
         ],
@@ -296,9 +296,10 @@
   },
   "active": "263ba3235eddccc2",
   "lastOpenFiles": [
+    "IAM/IAM Introduction.md",
+    "Introduction/Regions.md",
     "Introduction/Shared Responsibility.md",
     "Images/Pasted image 20260707144743.png",
-    "Introduction/Regions.md",
     "Introduction/What is cloud computing.md",
     "IAM/AWS CLI Acces Keys.md",
     "IAM/IAM Hands On for Users.md",
@@ -317,7 +318,6 @@
     "Images/Pasted image 20260628183222.png",
     "IAM/IAM Policies.md",
     "EC2",
-    "IAM/IAM Introduction.md",
     "Images/Pasted image 20260628183509.png",
     "Images/Pasted image 20260628182810.png",
     "Images/Pasted image 20260628182430.png",
