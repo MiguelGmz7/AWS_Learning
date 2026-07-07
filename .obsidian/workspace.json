@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/What is cloud computing.md",
+                "file": "Introduction/Regions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is cloud computing"
+              "title": "Regions"
             }
           }
         ],
@@ -282,6 +282,7 @@
   },
   "active": "0028c5ace8f46ca0",
   "lastOpenFiles": [
+    "Introduction/What is cloud computing.md",
     "IAM/AWS CLI Acces Keys.md",
     "IAM/IAM Hands On for Users.md",
     "IAM/Shared Responsibility Model for IAM.md",
@@ -292,7 +293,6 @@
     "Exam responses.md",
     "Introduction/Types of Cloud Computing.md",
     "Images/Pasted image 20260702183425.png",
-    "Introduction/What is cloud computing.md",
     "Introduction",
     "Images/Pasted image 20260702180503.png",
     "IAM/AWS Access.md",
