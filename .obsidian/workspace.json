@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/What is cloud computing.md",
+                "file": "IAM/Shared Responsibility Model for IAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is cloud computing"
+              "title": "Shared Responsibility Model for IAM"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capex",
+                "query": "security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2dfe6a17845fa07",
+  "active": "263ba3235eddccc2",
   "lastOpenFiles": [
+    "Introduction/What is cloud computing.md",
     "IAM/Shared Responsibility Model for IAM.md",
     "IAM/IAM Security Tools.md",
     "IAM/Hands On Roles of Service.md",
@@ -307,7 +308,6 @@
     "Introduction/Regions.md",
     "Introduction/Shared Responsibility.md",
     "Images/Pasted image 20260707144743.png",
-    "Introduction/What is cloud computing.md",
     "IAM/IAM Hands On for Users.md",
     "Images/Pasted image 20260702193601.png",
     "Images/Pasted image 20260702193352.png",
