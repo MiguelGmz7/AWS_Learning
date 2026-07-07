@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM/Hands On Roles of Service.md",
+                "file": "IAM/IAM Security Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hands On Roles of Service"
+              "title": "IAM Security Tools"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "role",
+                "query": "security",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,11 +297,11 @@
   },
   "active": "263ba3235eddccc2",
   "lastOpenFiles": [
+    "IAM/Hands On Roles of Service.md",
     "Introduction/Shared Responsibility.md",
     "IAM/Shared Responsibility Model for IAM.md",
     "Introduction/What is cloud computing.md",
     "IAM/IAM Security Tools.md",
-    "IAM/Hands On Roles of Service.md",
     "IAM/IAM Roles of Services.md",
     "IAM/AWS CLI Acces Keys.md",
     "IAM/AWS CloudShell.md",
