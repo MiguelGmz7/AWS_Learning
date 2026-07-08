@@ -6,3 +6,5 @@ The **main service** that allows AWS to be infrastructure as a service, it conta
 - Storing data on virtual drives (EBS Volumes)
 - Distribute load across machines (Elastic Load Balancer)
 - Scaling the services using an auto-scaling group (ASG)
+
+# In EC2 we can configure 
