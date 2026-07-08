@@ -9,3 +9,7 @@ The **main service** that allows AWS to be infrastructure as a service, it conta
 
 # In EC2 we can configure 
 ![[Pasted image 20260707191706.png]]
+	Boostrap commands = Command it start first
+
+# Examples of EC2
+![[Pasted image 20260707191740.png]]
