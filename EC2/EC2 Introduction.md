@@ -8,3 +8,4 @@ The **main service** that allows AWS to be infrastructure as a service, it conta
 - Scaling the services using an auto-scaling group (ASG)
 
 # In EC2 we can configure 
+![[Pasted image 20260707191706.png]]
