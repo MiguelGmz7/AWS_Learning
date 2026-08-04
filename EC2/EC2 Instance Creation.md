@@ -15,3 +15,9 @@
 ![[Pasted image 20260803221845.png]]
 
 # Because we are going to connect to ssh and it's intended 
+![[Pasted image 20260803222836.png]]
+
+# Storage Configuration we leave it as it is
+![[Pasted image 20260803222910.png]]
+
+# In the Advanced details
