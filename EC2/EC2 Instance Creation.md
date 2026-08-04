@@ -21,3 +21,5 @@
 ![[Pasted image 20260803222910.png]]
 
 # In the Advanced details, scroll all the way to the bottom until we find this square 
+![[Pasted image 20260803223248.png]]
+
