@@ -14,4 +14,4 @@
 ![[Pasted image 20260803221838.png]]
 ![[Pasted image 20260803221845.png]]
 
-# Because we are going to connect to ssh and it
+# Because we are going to connect to ssh and it's intended 
