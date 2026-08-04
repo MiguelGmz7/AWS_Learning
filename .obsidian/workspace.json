@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "right": {
     "id": "9fa74d2bdae341cb",
@@ -326,6 +327,7 @@
   },
   "active": "07b6b735c9ecf8d2",
   "lastOpenFiles": [
+    "Images/Pasted image 20260803220957.png",
     "Images/Pasted image 20260803214758.png",
     "Images/Pasted image 20260707192752.png",
     "Images/Pasted image 20260707192646.png",
@@ -353,7 +355,6 @@
     "Introduction/Types of Cloud Computing.md",
     "Images/Pasted image 20260702183425.png",
     "Introduction",
-    "Images/Pasted image 20260702180503.png",
     "IAM/IAM Policies.md",
     "EC2",
     "2026-06-27.md",

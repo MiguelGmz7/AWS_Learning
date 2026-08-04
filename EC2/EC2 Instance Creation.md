@@ -6,3 +6,5 @@
 # Click on Launch Instance
 ![[Pasted image 20260803214758.png]]
 
+# Select the name, AMI / OS (Amazon Machine Image), and instance type
+![[Pasted image 20260803220957.png]]
