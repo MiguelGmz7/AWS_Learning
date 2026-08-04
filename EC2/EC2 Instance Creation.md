@@ -2,3 +2,5 @@
 # How to Create a new instance
 **NOTE: CHOOSE THE REGION THAT IS CLOSER TO YOU**
 ![[Pasted image 20260707192752.png]]
+
+
