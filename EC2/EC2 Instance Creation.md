@@ -26,4 +26,5 @@
 	This is the bootstrap script  or also know as user data, this script will run first:
 	- Update yum
 	- Install httpd
-	- Write a little html in th
+	- Write a little html in the server configuration
+
