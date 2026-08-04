@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2/EC2 Instance Creation.md",
+                "file": "EC2/EC2 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Instance Creation"
+              "title": "EC2 Introduction"
             }
           }
         ],
@@ -327,6 +327,7 @@
   },
   "active": "07b6b735c9ecf8d2",
   "lastOpenFiles": [
+    "EC2/EC2 Instance Creation.md",
     "Images/Pasted image 20260803223248.png",
     "Images/Pasted image 20260803222910.png",
     "Images/Pasted image 20260803222836.png",
@@ -337,9 +338,7 @@
     "Images/Pasted image 20260707192752.png",
     "Images/Pasted image 20260707192646.png",
     "EC2/EC2 Introduction.md",
-    "EC2/EC2 Instance Creation.md",
     "Images/Pasted image 20260707191740.png",
-    "Images/Pasted image 20260707191706.png",
     "IAM/IAM Introduction.md",
     "IAM/Shared Responsibility Model for IAM.md",
     "IAM/AWS Access.md",
