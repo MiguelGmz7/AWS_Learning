@@ -23,3 +23,7 @@
 # In the Advanced details, scroll all the way to the bottom until we find this square 
 ![[Pasted image 20260803223248.png]]
 
+	This is the bootstrap script  or also know as user data, this script will run first:
+	- Update yum
+	- Install httpd
+	- Write a little html in th
