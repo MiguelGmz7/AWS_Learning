@@ -13,3 +13,4 @@ The **main service** that allows AWS to be infrastructure as a service, it conta
 
 # Examples of EC2
 ![[Pasted image 20260707191740.png]]
+
